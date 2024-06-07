@@ -46,11 +46,6 @@ O projeto propõe o desenvolvimento de um sistema que:
 3. O script irá capturar dados simulados, processá-los e exibir as estatísticas no console.
 4. Verifique o arquivo `estatisticas.json` para os dados processados salvos.
 
-## Explicação dos Arquivos
-/projeto-monitoramento-oceanos
-│-- main.py
-│-- estatisticas.json (gerado após a execução do script)
-│-- README.md
 ### main.py
 Contém o código principal do sistema, incluindo:
 - Captura de dados simulados.
@@ -63,6 +58,10 @@ Contém o código principal do sistema, incluindo:
 Arquivo gerado pelo script contendo os dados processados.
 
 ## Estrutura do Projeto
+/projeto-monitoramento-oceanos
+│-- main.py
+│-- estatisticas.json (gerado após a execução do script)
+│-- README.md
 ## Melhorias e Próximos Passos
 - Integração com APIs reais de monitoramento marinho para coleta de dados em tempo real.
 - Desenvolvimento de uma interface gráfica para visualização dos dados.
