@@ -1,4 +1,8 @@
 # GSPYTHON
+#RMS
+Vinicius Issa Gois Rm 553814
+Vinicius Caetano Rm552904
+Gustavo Manganelli Felex rm554242
 # Projeto do AquaClean
 
 ## Introdução
